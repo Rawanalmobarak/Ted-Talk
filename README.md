@@ -1,4 +1,4 @@
-# Ted Talk Dataset EDA
+# Ted Talk Dataset
 
 
 ## This Repo includes:
@@ -8,7 +8,7 @@
 - Future Work
 
 
-## Introduction:
+### Introduction:
 
 ### Data Description:
 
@@ -27,7 +27,7 @@ This dataset contains 6 different features of each talk available on TED's websi
 - likes - Number of likes of the Talk
 - link - Link of the talk from ted.com
 
-## Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 ### Data Cleaning:
 
@@ -35,8 +35,8 @@ This dataset contains 6 different features of each talk available on TED's websi
 
 
 
-## Conclusion:
+### Conclusion:
 
 
-## Future work:
+### Future work:
 
